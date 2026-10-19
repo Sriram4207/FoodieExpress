@@ -1,0 +1,10 @@
+
+.git
+.metadata
+.settings
+Servers
+target
+build
+.classpath
+.project
+*.class
